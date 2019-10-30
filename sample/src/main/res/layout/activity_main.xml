@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+   <Button
+       android:onClick="startVideoUploadService"
+       android:layout_width="match_parent"
+       android:layout_height="50dp"
+       android:text="startVideoUploadService"
+       android:textAllCaps="false"
+       />
+
+    <Button
+        android:onClick="stopVideoUploadService"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="stopVideoUploadService"
+        android:textAllCaps="false"
+        />
+
+    <Button
+        android:onClick="startRecordAudioService"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="startRecordAudioService"
+        android:textAllCaps="false"
+        />
+
+    <Button
+        android:onClick="stopRecordAudioService"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="stopRecordAudioService"
+        android:textAllCaps="false"
+        />
+
+</LinearLayout>
