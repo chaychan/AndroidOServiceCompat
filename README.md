@@ -3,7 +3,7 @@
 
 ### 效果
 
-![image](https://chaychan-blog-img.oss-cn-shenzhen.aliyuncs.com/AndroidOServiceCompat/1.gif)
+![image](/img/1.gif)
 
 
 ### 如何使用
