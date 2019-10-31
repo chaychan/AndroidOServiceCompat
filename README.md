@@ -1,5 +1,5 @@
-### AndroidOServiceCompact框架
-这是一个针对安卓8.0对后台服务的限制，对Service做出了兼容的框架，使用AndroidOServiceCompact框架，可以让你的项目的Service更快更方便地兼容安卓8.0。
+### AndroidOServiceCompat框架
+这是一个针对安卓8.0对后台服务的限制，对Service做出了兼容的框架，使用AndroidOServiceCompat框架，可以让你的项目的Service更快更方便地兼容安卓8.0。
 
 ### 效果
 
@@ -150,6 +150,6 @@ allprojects {
 ```
 dependencies {
 		......
-        compile 'com.github.chaychan:AndroidOServiceCompact:1.0.0'
+        compile 'com.github.chaychan:AndroidOServiceCompat:1.0.0'
 }
 ```
